@@ -15,4 +15,17 @@ terdaftar
 belum di lunaskan.
 
 # High-Level Design Architecture
-<img width="422" alt="image" src="https://github.com/kangmbudd/solarc-pasti/assets/117631798/0d685303-5870-4a88-a635-d5eade20f69b">
+![1](https://github.com/kangmbudd/solarc-pasti/assets/117631798/b3cc7f5e-8e49-4c54-b3a4-2a6c9715fdef)
+
+# Entity Relationship Diagram
+<img width="446" alt="image" src="https://github.com/kangmbudd/solarc-pasti/assets/117631798/b1f75a5b-474a-483c-80de-49fdab9ba952">
+
+# Screen Flow & Behaviour User
+![2](https://github.com/kangmbudd/solarc-pasti/assets/117631798/5f841d6b-b2eb-4207-80c8-5b77ea5eb5a9)
+
+# Structure Menu (Dashboard Admin)
+<img width="767" alt="image" src="https://github.com/kangmbudd/solarc-pasti/assets/117631798/77e0caa8-5a5c-4b46-859e-9747aaecf778">
+
+# API Design (Usecase Diagram)
+<img width="487" alt="image" src="https://github.com/kangmbudd/solarc-pasti/assets/117631798/b8bb830d-ab50-41a6-af7e-0e7770a10080">
+
